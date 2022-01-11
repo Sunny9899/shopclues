@@ -54,6 +54,8 @@ in no necessary order. We have employed the concept of localStorage extensively 
 <h3>Team Members Github's Link: </h3>
 Narendra Panchal: https://github.com/narendrapanchal
 
+Suryansh Pajiala: https://github.com/Sunny9899
+
 Deepesh: https://github.com/deepesh06-95
 
 Afreen Sheikh: https://github.com/Afreenhsheikh
